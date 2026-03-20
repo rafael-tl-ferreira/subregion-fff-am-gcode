@@ -6,4 +6,4 @@ Includes source gcode.py and four .gcode printer files for the experimental exam
 If you use this code or the methodology in your own work, please cite the article:
 Freitas, P. A. C., Dutra, T. A., & Ferreira, R. T. L. (202X). Optimisation of variable material orientations through design subregions for additive manufacturing of fibre composites. [Journal Name/DOI].
 
-CODE AND GITHUB PAGE UNDER PREPARATION
+2026 All rights reserved.
