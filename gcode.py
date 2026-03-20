@@ -4,7 +4,7 @@
 # for additive manufacturing of fibre composites" by P.A.C. de Freitas, T.A. 
 # Dutra, and R.T.L. Ferreira. 
 # 
-# 2026 All rights reserved to P.A.C. de Freitas.
+# 2026 All rights reserved
 ###############################################################################
 
 import numpy as np
